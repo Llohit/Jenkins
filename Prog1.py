@@ -1,2 +1,2 @@
 def summation(data):
-  return sum(data0
+  return sum(data)
